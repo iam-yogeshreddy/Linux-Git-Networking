@@ -1,0 +1,18 @@
+sudo su -
+yum update -y
+yum install -y httpd 
+systemctl status httpd
+mkdir temp
+cd temp
+wget (zip file copy link)
+ls -lrt
+unzip displayed_name.zip
+ls -lrt
+cd main repo name
+ls -lrt
+mv * /var/www/html/
+cd /var/www/html
+ls -lrt
+systemctl status httpd
+systemctl enable httpd
+systemctl start httpd
