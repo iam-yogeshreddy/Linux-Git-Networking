@@ -8,7 +8,7 @@ wget (zip file copy link)
 ls -lrt
 unzip displayed_name.zip
 ls -lrt
-cd main repo name
+cd (main repo name)
 ls -lrt
 mv * /var/www/html/
 cd /var/www/html
