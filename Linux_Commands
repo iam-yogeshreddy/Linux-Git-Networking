@@ -13,6 +13,6 @@ ls -lrt
 mv * /var/www/html/
 cd /var/www/html
 ls -lrt
-systemctl status httpd
 systemctl enable httpd
 systemctl start httpd
+systemctl status httpd
