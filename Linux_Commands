@@ -4,7 +4,8 @@ yum install -y httpd
 systemctl status httpd
 mkdir temp
 cd temp
-wget (zip file copy link)
+-> wget
+   wget(world wide get) is used to retrive or download the files or content from web servers via HTTP,HTTPS and FTP protocols with non-interactive downloads.
 ls -lrt
 unzip displayed_name.zip
 ls -lrt
@@ -16,3 +17,6 @@ ls -lrt
 systemctl enable httpd
 systemctl start httpd
 systemctl status httpd
+
+-> history
+This command is used to view the previously executed commands on the terminal
