@@ -1,16 +1,26 @@
 # Linux_commands
 * File Management commands :-
+
+->  pwd : This command is used to displays the present working directory
+
+-> mkdir : This command is used to create a new directory
+
+-> touch : This command is used to creates an empty file
   
-  -> ls : listing content of a directory
+-> ls : This command is used to listing content of a directory
 
-  -> ls -al : Formatted listing with hidden files
+-> ls -al : This command is used to formatted listing with hidden files
 
-  -> ls -lt : Sorting the formatted listing by time modification
+-> ls -lt : This command is used to sorting the formatted listing by time modification
 
-  -> cd yogesh : change directory to vamsi
+-> cd : This command is used to change current directory
 
-  -> pwd : displays the present working directory
+-> sudo : This command is used to execute a command with superuser privileges
 
-  -> 
+-> chmod : This command will give the user permission to read,write and execute a file
+
+-> history : This command is used to display the previously executed commands
+
+-> 
 
   
