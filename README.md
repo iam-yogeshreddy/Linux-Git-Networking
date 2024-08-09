@@ -21,6 +21,6 @@
 
 -> history : This command is used to display the previously executed commands
 
--> 
+-> top : This command is used to monitor real-time system resource usage, including CPU, memory and process activity
 
   
