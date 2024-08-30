@@ -19,4 +19,6 @@ systemctl start httpd
 systemctl status httpd
 
 -> history
-This command is used to view the previously executed commands on the terminal
+
+
+for simple application demo working
