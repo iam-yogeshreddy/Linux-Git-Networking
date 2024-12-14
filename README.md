@@ -1,26 +1,27 @@
-# Linux_commands
-* File Management commands :-
+** 𝐋𝐢𝐧𝐮𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦(𝐎𝐒) :
 
-->  pwd : This command is used to displays the present working directory
+Linux is an open source OS. It was created by Linus Torvalds in 1991.
 
--> mkdir : This command is used to create a new directory
+𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔 :
 
--> touch : This command is used to creates an empty file
-  
--> ls : This command is used to listing content of a directory
+-> Open Source
 
--> ls -al : This command is used to formatted listing with hidden files
+-> Stability
 
--> ls -lt : This command is used to sorting the formatted listing by time modification
+-> Security Features
 
--> cd : This command is used to change current directory
+-> Fast Running of tasks
 
--> sudo : This command is used to execute a command with superuser privileges
+𝗞𝗲𝗿𝗻𝗲𝗹 :
 
--> chmod : This command will give the user permission to read,write and execute a file
+Kernel is the core of an OS and the responsibility of kernel is to establish a connection between software applications and hardware of a computer.
 
--> history : This command is used to display the previously executed commands
+𝙆𝙚𝙧𝙣𝙚𝙡 𝙍𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨 :
 
--> top : This command is used to monitor real-time system resource usage, including CPU, memory and process activity
+1. Device Management
 
-  
+2. Memory Management
+
+3. Process Management
+
+4. Handling System Calls
