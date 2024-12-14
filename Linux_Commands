@@ -24,3 +24,27 @@ cd : change to home directory
 pwd : shows current working directory
 cat file_name : displays the content of the file
 touch file_name : create or update a file
+
+* 𝑷𝒓𝒐𝒄𝒆𝒔𝒔 𝑴𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 :
+ps : To display the current working processes
+htop : monitors system processes and provides a user-friendly interface
+
+* 𝐅𝐢𝐥𝐞 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧 :
+chmod octal file :  Change the permission of file to octal,which can 
+be found separately for user,group,world by 
+adding,
+ • 4-read(r)
+ • 2-write(w)
+ • 1-execute(x)
+
+* 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 :
+wget file : Download file
+wget -c file : Continue a stopped download 
+ping host : Ping host and output results
+
+* 𝐒𝐡𝐨𝐫𝐭𝐜𝐮𝐭𝐬 :
+ctrl+c :  Halts the current command
+ctrl+d :  Logout the current session, similar to exit 
+ctrl+w : Erases one word in the current line
+ctrl+u : Erases the whole line
+
