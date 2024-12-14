@@ -4,6 +4,23 @@
 top : real time system information, including CPU, memory and process usage
 df -h : Checks disk space usage 
 free -h : memory usage, including free, used and swap memory
+vmstat : system processes, memory, paging, blockid, traps, and CPU activity
+iostat : CPU and I/O statics
+
+* File Management :
+ls :  directory listing
+ls -la : list files with details
+grep pattern file : searches for a specific pattern within a file
+cp source_file target_file : This copies the entire file (not just the content) 
+cat source_file > target_file : This overwrites the target_file with the content of source_file
+cat source_file >> target_file : To append the content instead of overwriting
+mkdir yogesh : creates a directory yogesh 
+cd yogesh : change directory to yogesh
+cd : change to home directory
+pwd : shows current working directory
+cat file_name : displays the content of the file
+touch file_name : create or update a file
+
 
 * File Management commands :-
 
