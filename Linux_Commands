@@ -3,8 +3,8 @@
 * 𝙎𝙮𝙨𝙩𝙚𝙢 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 :
 top : real time system information, including CPU, memory and process usage
 df -h : Checks disk space usage 
+free -h : memory usage, including free, used and swap memory
 
-free -h : 
 * File Management commands :-
 
 ->  pwd : This command is used to displays the present working directory
