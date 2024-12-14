@@ -1,4 +1,4 @@
-** 𝐋𝐢𝐧𝐮𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦(𝐎𝐒) :
+𝐋𝐢𝐧𝐮𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦(𝐎𝐒) :
 
 Linux is an open source OS. It was created by Linus Torvalds in 1991.
 
