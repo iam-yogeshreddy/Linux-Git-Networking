@@ -4,10 +4,13 @@ Linux is an open source OS. It was created by Linus Torvalds in 1991.
 
 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔 :
 
-1.Open Source
-2.Stability
-3.Security Features
-4.Fast Running of tasks
+->Open Source
+
+->Stability
+
+->Security Features
+
+->Fast Running of tasks
 
 𝗞𝗲𝗿𝗻𝗲𝗹 :
 
