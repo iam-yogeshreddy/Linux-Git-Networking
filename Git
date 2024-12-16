@@ -1,0 +1,27 @@
+1. git init: Initialize a new Git repository in our project directory. The starting point of version control.
+
+2. git clone <repository>: Clone a repository into a new directory. Get a copy of an existing Git repository.
+
+3. git add <file> and git add.: Stage changes for commit. The first adds a specific file, while the second adds all changes.
+
+4. git commit -m "our message": Commit staged changes with a descriptive message. Capture the state of your project at a specific point.
+
+5. git status: Check the status of your working directory. View modified, added, and untracked files.
+
+6. git branch: List existing branches. See which branch you are on with an asterisk.
+
+7. git checkout -b <branch>: Create and switch to a new branch. Keep your changes isolated from the main code base.
+
+8. git merge <branch>: Merge changes from one branch into another. Combine the work from different branches.
+
+9. git pull: Fetch and integrate changes from a remote repository. Update your local repository with the latest changes.
+
+10. git push: Upload our local changes to a remote repository. Share our work with the rest of the team.
+
+11. git log: View the commit history. Understand who made changes and when.
+
+12. git diff: See the differences between your working directory and the last commit. Useful for reviewing changes before committing.
+
+13. git stash: Temporarily save changes without committing. Useful when you need to switch branches but don't want to commit incomplete work.
+
+14 git remote -v : List remote repositories. See the URLs of remote repositories connected to your local project.
