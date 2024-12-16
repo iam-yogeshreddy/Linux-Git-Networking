@@ -1,4 +1,4 @@
-* Git Commands :
+* 𝑮𝒊𝒕 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔 : 
 
 1. git init: Initialize a new Git repository in our project directory. The starting point of version control.
 
@@ -26,4 +26,4 @@
 
 13. git stash: Temporarily save changes without committing. Useful when you need to switch branches but don't want to commit incomplete work.
 
-14 git remote -v : List remote repositories. See the URLs of remote repositories connected to your local project.
+14 git remote -v : List remote repositories. See the URLs of remote repositories connected to our local project.
