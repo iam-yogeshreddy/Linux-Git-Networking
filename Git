@@ -1,3 +1,5 @@
+* Git Commands :
+
 1. git init: Initialize a new Git repository in our project directory. The starting point of version control.
 
 2. git clone <repository>: Clone a repository into a new directory. Get a copy of an existing Git repository.
@@ -9,7 +11,7 @@
 5. git status: Check the status of your working directory. View modified, added, and untracked files.
 
 6. git branch: List existing branches. See which branch you are on with an asterisk.
-
+ 
 7. git checkout -b <branch>: Create and switch to a new branch. Keep your changes isolated from the main code base.
 
 8. git merge <branch>: Merge changes from one branch into another. Combine the work from different branches.
