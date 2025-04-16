@@ -2,6 +2,7 @@
 
 * 𝙎𝙮𝙨𝙩𝙚𝙢 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 :
 top : shows real time system information, including CPU, memory and process usage
+htop : offers additional details such as the user who started the process, the command used to start the process, and the process's start time
 df -h : Checks disk space usage 
 free -h : shows memory usage, including free, used and swap memory
 vmstat : system processes, memory, paging, blockid, traps, and CPU activity
