@@ -16,6 +16,7 @@ sudo : executes a command with superuser privileges
 ls :  directory listing
 ls -la : list files with details
 grep pattern file : searches for a specific pattern within a file
+mv old_filename new_filename : Renaming a file only.
 cp source_file target_file : This copies the entire file (not just the content) 
 cat source_file > target_file : This overwrites the target_file with the content of source_file
 cat source_file >> target_file : To append the content instead of overwriting
