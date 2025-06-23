@@ -16,6 +16,7 @@ sudo : executes a command with superuser privileges
 ls :  directory listing
 ls -la : list files with details
 grep pattern file : searches for a specific pattern within a file
+mv myfile.txt /home/user/Documents/ : Move a file to another directory
 mv old_filename new_filename : Renaming a file only.
 cp source_file target_file : This copies the entire file (not just the content) 
 cat source_file > target_file : This overwrites the target_file with the content of source_file
@@ -49,4 +50,5 @@ ctrl+c :  Halts the current command
 ctrl+d :  Logout the current session, similar to exit 
 ctrl+w : Erases one word in the current line
 ctrl+u : Erases the whole line
+
 
