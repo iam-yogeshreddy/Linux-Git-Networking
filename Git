@@ -7,7 +7,7 @@ Git is a distributed version control system that tracks changes to the code file
 
 GitHub :
 
-GitHub is a web-based platform that hosts Git repositories, providing additional collaboration features like pull requests, issue tracking, and project management tools.s
+GitHub is a web-based platform that hosts Git repositories, providing additional collaboration features like pull requests, issue tracking, and project management tools.
 
 
 1. git init: Initialize a new Git repository in our project directory. The starting point of version control.
