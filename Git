@@ -1,5 +1,15 @@
 * 𝑮𝒊𝒕 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔 : 
 
+Git VS GitHub :
+
+Git is a distributed version control system that tracks changes to the code file, enabling collaboration and history tracking.
+
+
+GitHub :
+
+GitHub is a web-based platform that hosts Git repositories, providing additional collaboration features like pull requests, issue tracking, and project management tools.s
+
+
 1. git init: Initialize a new Git repository in our project directory. The starting point of version control.
 
 2. git clone <repository>: Clone a repository into a new directory. Get a copy of an existing Git repository.
