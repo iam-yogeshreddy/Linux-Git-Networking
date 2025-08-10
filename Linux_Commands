@@ -33,6 +33,7 @@ ps : To display the current working processes
 htop : monitors system processes and provides a user-friendly interface
 
 * 𝐅𝐢𝐥𝐞 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧 :
+chown [new_owner] [file_name] : changes the owner of the specified file to the user you give in [new_owner].
 chmod octal file :  Change the permission of file to octal,which can 
 be found separately for user,group,world by 
 adding,
@@ -41,9 +42,14 @@ adding,
  • 1-execute(x)
 
 * 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 :
+
+ip a : Show all interfaces & IP addresses
+hostname -I : Show private IP(s)
+curl https://ifconfig.me  : Show public IP
 wget file : Download file
 wget -c file : Continue a stopped download 
-ping host : Ping host and output results
+ping google.com  : Test internet connectivity
+ss -tulnp   : Show listening ports & processes
 
 * 𝐒𝐡𝐨𝐫𝐭𝐜𝐮𝐭𝐬 :
 ctrl+c :  Halts the current command
