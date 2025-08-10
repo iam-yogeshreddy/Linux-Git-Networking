@@ -1,6 +1,7 @@
 * 𝐋𝐢𝐧𝐮𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦(𝐎𝐒) :
 
-Linux is an open source OS. It was created by Linus Torvalds in 1991.
+Linux is an open-source, Unix-like operating system kernel created by Linus Torvalds in 1991. It acts as a bridge between hardware and software, managing resources like CPU, memory, and devices. It’s widely used in servers, cloud platforms, embedded systems, and desktops because it’s stable, secure, and flexible.
+
 
 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔 :
 
@@ -11,6 +12,8 @@ Linux is an open source OS. It was created by Linus Torvalds in 1991.
 ->Security Features
 
 ->Fast Running of tasks
+
+-> Highly Customizable
 
 𝗞𝗲𝗿𝗻𝗲𝗹 :
 
