@@ -24,9 +24,9 @@ GitHub is a web-based platform that hosts Git repositories, providing additional
  
 7. git checkout -b <branch>: Create and switch to a new branch. Keep your changes isolated from the main code base.
 
-8. git merge <branch>: Merge changes from one branch into another. Combine the work from different branches.
+8. git merge <branch>: Combines changes from one branch into another by creating a new commit called a merge commit.
 
-9. git pull: Fetch and integrate changes from a remote repository. Update your local repository with the latest changes.
+9. git pull: It downloads changes from the remote and immediately merges them into your current branch. git fetch + git merge
 
 10. git push: Upload our local changes to a remote repository. Share our work with the rest of the team.
 
@@ -37,3 +37,7 @@ GitHub is a web-based platform that hosts Git repositories, providing additional
 13. git stash: Temporarily save changes without committing. Useful when you need to switch branches but don't want to commit incomplete work.
 
 14 git remote -v : List remote repositories. See the URLs of remote repositories connected to our local project.
+
+15 git fetch : Downloads new commits, branches, and tags from the remote without merging into your local branch.
+
+git rebase : Moves your branch’s commits to the top of another branch by 𝐫𝐞𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐜𝐨𝐦𝐦𝐢𝐭 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 to create a clean, linear sequence of commits.
